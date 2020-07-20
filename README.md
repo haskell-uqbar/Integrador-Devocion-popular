@@ -6,15 +6,15 @@
 
 De las personas conocemos una serie de acciones destacadas que hicieron en su vida, su situación laboral, su estado de salud y si tienen esperanza o no.
 
-![](sancayetano.jpg)
+![](sancayetano.png)
 
 Cuando una persona va al santuario de San Cayetano, si ha realizado en su vida alguna de las acciones que son del agrado del santo, su situación laboral mejora, en caso contrario se vuelven a su casa tal como llegaron. Las acciones que le agradan son: "esfuerzo", "compartir" y "tener una estampita".
 
-![](difuntacorrea.jpg)
+![](difuntacorrea.png)
 
 También está la Difunta Correa, que si bien ninguna de las iglesias tradicionales la tiene en su santoral, tiene seguidores que la consideran una santa y van a sus pequeños santuarios que suelen estar al costado de la ruta. Cuando un devoto de la difunta va a su santuario, en caso que alguna vez haya hecho la accion de dejar una botella con agua, se le mejora la salud.
 
-![](angelelli.jpg)
+![](angelelli.png)
 
 Una de las devociones más recientes es la de Enrique Agelelli, obispo argentino asesinado por la dictadura militar y reconocido como mártir por la Iglesia Católica, junto a dos curas y un laico, todos en La Rioja. Se considera que ayuda a quienes han realizado alguna acción de compromiso social, pero no se sabe bien aún si causa algun otro efecto, además de que la persona vuelve con esperanza. (Se conoce una lista con todas las acciones que se consideran de compromiso social)
 
